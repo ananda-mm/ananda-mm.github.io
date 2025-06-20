@@ -1,0 +1,88 @@
+/*body {
+    font-family: 'Nunito', sans-serif;
+    background-size: cover;
+    position: relative;
+  }
+  body::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    
+  }
+  @media (min-width: 1024px) {
+    body {
+      background-attachment: fixed;
+    }
+  }  
+ 
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito', sans-serif;
+  }*/
+  
+  #main {
+    position: relative;
+  } 
+  
+    /*--------------------------------------------------------------
+  # Header
+  --------------------------------------------------------------*/
+  #header {
+    position: relative;
+    width: 100%;
+    padding: 100px 0;
+    /* countdown */
+  }
+  #header h1 {
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: black;
+  }
+  #header h2 {
+    color: black;
+    margin-bottom: 40px;
+    font-size: 22px;
+  }
+  #header .countdown {
+    margin-bottom: 80px;
+  }
+  #header .countdown div {
+    text-align: center;
+    border: 2px solid rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    /* margin: 12px 12px; */
+    width: 110px;   
+    padding: 15px 0;
+    background-color: #206aed;
+    color: #fff;   
+  }
+  #header .countdown div h3 {
+    font-weight: 700;
+    font-size: 32px;
+    margin-bottom: 15px;
+  }
+  #header .countdown div h4 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  @media (max-width: 575px) {
+    #header .countdown div {
+      width: 70px;
+      padding: 10px 0;
+      margin: 10px 8px;
+    }
+    #header .countdown div h3 {
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+    #header .countdown div h4 {
+      font-size: 14px;
+      font-weight: 500;
+    }
+  }
+  
+  

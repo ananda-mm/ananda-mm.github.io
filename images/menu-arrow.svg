@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Arrow Copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Navigation_Redesign_Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="03-Nav-plans" transform="translate(-497.000000, -423.000000)" fill="#00A9CE">
+            <g id="Megamenu" transform="translate(0.000000, 110.000000)">
+                <g id="Item" transform="translate(327.000000, 264.000000)">
+                    <g id="Offers">
+                        <g id="Block">
+                            <g id="Link" transform="translate(16.000000, 44.000000)">
+                                <path d="M156.313847,12.7150495 L152.285373,8.67384491 C151.906337,8.29195254 151.904393,7.67211185 152.282458,7.28826106 C152.661494,6.9073479 153.277671,6.90343105 153.658651,7.28532342 L157,10.6391218 L160.341349,7.28532342 C160.722329,6.90245184 161.338506,6.90636869 161.717542,7.28826106 C162.095607,7.67211185 162.093663,8.29195254 161.714627,8.67384491 L157.686153,12.7150495 C157.496635,12.9050165 157.247831,13 157,13 C156.752169,13 156.503365,12.9050165 156.313847,12.7150495 Z" id="Arrow-Copy-3" transform="translate(157.000000, 10.000000) rotate(-90.000000) translate(-157.000000, -10.000000) "></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
